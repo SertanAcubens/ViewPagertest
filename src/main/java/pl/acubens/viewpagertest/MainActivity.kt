@@ -144,6 +144,7 @@ class MainActivity : AppCompatActivity()
 
         fun addFragment(name: String) {
             mFragmentNames.add(name)
+            notifyDataSetChanged()
         }
 
 
