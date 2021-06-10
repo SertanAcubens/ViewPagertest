@@ -12,3 +12,5 @@ adapter = RecyclerViewAdapter().apply {
 ViewPager2 works with no issues.
 
 I would appreciate any help on that problem as it spoils my real application and drives me crazy.
+
+Seems like it affects at least devices with Android 9. On Android 11 it works OK.
